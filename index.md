@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-subtitle: Why you'd want to go on a date with me
+title: Ashwin Muthiah Murugappan
+subtitle: Data Analyst | Business Intelligence | Supply chain Professional
 ---
 
 My name is Inigo Montoya. I have the following qualities:
