@@ -10,7 +10,7 @@ I am a Masters student in Industrial Engineering,a first class honours graduate 
 
 #### 2018-Present - Ms Industrial Engineering  - Northeastern University
 
- Coursework in  Deterministic Operational Research, Engineering Probs & Stats, Data Mining, Supply chain Engineering ,Database Management and database design. GPA 3.85 (96%)
+ Coursework in  Deterministic Operational Research, Engineering Probs & Stats, Data Mining, Supply chain Engineering ,Database Management and database design. GPA 3.90 (97.50%)
 
 #### 2014 - 2018 - Bs Mechanical Engineering - Sri Venkateshwara College of Engineering
 
