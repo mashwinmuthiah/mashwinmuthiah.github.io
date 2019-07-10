@@ -15,20 +15,17 @@ title: First
 </head>
 
 <body>
-
     <nav class="navbar navbar-default">
         <div class="container">
             <a class="navbar-brand" href="#"><img id="logo" src="img/logo.png"></a>      
         </div>
     </nav>
-
     <!-- Bootstrap grid setup -->
     <div class="container">
         <div class="row">
             <div id="chart-area"></div>
         </div>
     </div>
-
 <!-- External JS libraries -->
 <script src="js/d3.js"></script>
 <!-- Custom JS -->
