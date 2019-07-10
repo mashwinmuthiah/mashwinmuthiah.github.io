@@ -6,6 +6,8 @@ subtitle: The Famous Scatter Plot by Professor Hans Rosling recreated using D3.j
 ---
 [For an interactive version - click here](https://mashwinmuthiah.github.io/Income-vs-life-expectancy/)
 
+![Screenshot](/img/ss.jpg)
+
 This chart shows the Life Expectancy and Income of 182 nations in the year 2015. Each bubble is a country. Size is population. Color is region.
 
 People live longer in countries with a higher GDP per capita. Or put differently; in countries with longer lives, GDP per capita is higher. The connection between health and wealth doesn’t tell us which comes first. But one thing is clear: there are not two groups of countries, despite what many people think. Dividing the countries into two groups, developing vs. developed, is extremely misleading.
