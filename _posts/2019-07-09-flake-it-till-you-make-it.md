@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Test-Markdown
+subtitle: Test-Markdown
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
