@@ -15,23 +15,7 @@ title: First
 
 <body>
 
-    <nav class="navbar navbar-default">
-        <div class="container">
-            <a class="navbar-brand" href="#"><img id="logo" src="img/logo.png"></a>      
-        </div>
-    </nav>
-
-    <!-- Bootstrap grid setup -->
-    <div class="container">
-        <div class="row">
-            <div id="chart-area"></div>
-        </div>
-    </div>
-
-<!-- External JS libraries -->
-<script src="d3.js"></script>
-<!-- Custom JS -->
-<script src="main.js"></script>
+<div>Hi</div>
 
 </body>
 </html>
