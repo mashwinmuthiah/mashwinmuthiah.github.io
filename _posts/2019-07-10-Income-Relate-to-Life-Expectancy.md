@@ -2,11 +2,11 @@
 layout: post
 title: How Does Income Relate to Life Expectancy?
 subtitle: The Famous Scatter Plot by Professor Hans Rosling recreated using D3.js
+bigimg: /img/ss.jpg
 
 ---
 [For an interactive version - click here](https://mashwinmuthiah.github.io/Income-vs-life-expectancy/){:target="_blank"}
 
-<img src="/img/SS.jpg">
 
 This chart shows the Life Expectancy and Income of 182 nations in the year 2015. Each bubble is a country. Size is population. Color is region.
 
