@@ -787,3 +787,9 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+#category{
+  background-color: #fff2ac;
+  background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 25%);
+  text-align : center;
+}
