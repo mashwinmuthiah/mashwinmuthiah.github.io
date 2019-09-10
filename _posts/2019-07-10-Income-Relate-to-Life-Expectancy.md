@@ -2,6 +2,7 @@
 layout: post
 title: How Does Income Relate to Life Expectancy? - A visual representation
 subtitle: The Famous Scatter Plot by Professor Hans Rosling recreated using D3.js
+tags: [visualization, D3.js]
 
 ---
 [For an interactive version - click here](https://mashwinmuthiah.github.io/Income-vs-life-expectancy/){:target="_blank"}
