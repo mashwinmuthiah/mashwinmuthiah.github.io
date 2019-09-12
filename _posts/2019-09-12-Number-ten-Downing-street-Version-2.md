@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electricity Consumption of Number 10 Downing street (Version - 2)
-subtitle: The headquarters of the Government of the UK and your house follow same patterns
+subtitle: The headquarters of the Government of the UK and rest of the world follow same patterns
 tags: [visualization, Tableau]
 
 ---
