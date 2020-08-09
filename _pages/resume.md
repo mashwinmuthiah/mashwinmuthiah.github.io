@@ -3,6 +3,9 @@ title: "Resume"
 permalink: "/resume.html"
 ---
 
+<a class ="btn btn-success button pageclip-form__submit--dark-loader" href="\assets\images\Ashwin-Resume.pdf" download="Ashwin-Resume" value="Download">
+<input class="btn btn-success button pageclip-form__submit--dark-loader" type="submit" value="Download">
+</a>
 
 ## <ins>Professional Summary</ins>
 I am a Masters student in Industrial Engineering,a first class honours graduate in Mechanical Engineering ,a computer and data enthusiast. I have two years of academic experience in data manuplation and analysis.I’m currently working as a graduate research assistant where I worked with a huge medical database created by MIT consisting of 500 million records to extract information using python integrated with PostgreSQL and analyses the anomalies in the database. During my undergrad studies, I worked as a research assistant where I analyzed a company’s supply chain and suggested ways to improve them. I have also worked as a data analyst intern at caterpillar where I extracted data from the companies database to analyze how the price of a tube is quoted. 
