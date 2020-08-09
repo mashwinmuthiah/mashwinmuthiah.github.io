@@ -3,19 +3,6 @@ title: "Resume"
 permalink: "/resume.html"
 ---
 
-<!-- <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message, I will get back to you as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
-</form> -->
 
 ## <ins>Professional Summary</ins>
 I am a Masters student in Industrial Engineering,a first class honours graduate in Mechanical Engineering ,a computer and data enthusiast. I have two years of academic experience in data manuplation and analysis.I’m currently working as a graduate research assistant where I worked with a huge medical database created by MIT consisting of 500 million records to extract information using python integrated with PostgreSQL and analyses the anomalies in the database. During my undergrad studies, I worked as a research assistant where I analyzed a company’s supply chain and suggested ways to improve them. I have also worked as a data analyst intern at caterpillar where I extracted data from the companies database to analyze how the price of a tube is quoted. 
