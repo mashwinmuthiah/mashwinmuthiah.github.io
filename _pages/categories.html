@@ -7,10 +7,20 @@ permalink: "/categories.html"
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
-            
-        {% for category in site.categories %} 
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        <h1 class="font-weight-bold title h3 text-uppercase mb-1">Categories</h1>
+        <h1 class="h6 mb-3">Select to view category</h1>
+        
+        <p class="text-uppercase font-weight-bold">
+          <span class="catlist">
+              {% for category in site.categories %}
+              <a class="sscroll text-danger mb-3" href="{{site.baseurl}}/categories.html#{{ category[0] | downcase }}">{{ category[0] | downcase }}</a><span class="sep"> | </span>
+              {% endfor %}
+          </span>
+        </p>
+
+
+        {% for category in site.categories %}
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
             
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}
