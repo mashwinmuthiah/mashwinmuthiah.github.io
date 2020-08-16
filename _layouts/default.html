@@ -29,9 +29,9 @@
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
 
-
+    {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include tracking-header.html %}
-
+    {% endif %}
 
 
 </head>
