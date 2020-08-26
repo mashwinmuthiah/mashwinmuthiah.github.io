@@ -2,9 +2,8 @@
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
 author: Ashwin
-categories: [ Jekyll, tutorial ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-tags: [summer]
+categories: [ Markdown, tutorial ]
+image: assets/images/Markdown.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
@@ -14,7 +13,11 @@ As with the last post about the editor, you'll want to be actually editing this 
 ## Special formatting
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
+```
++ ~~strike through~~
++ ==highlight==
++ \*escaped characters\*
+```
 + ~~strike through~~
 + ==highlight==
 + \*escaped characters\*
@@ -32,8 +35,10 @@ There are two types of code elements which can be inserted in Markdown, the firs
 
 If you want to get really fancy, you can even add syntax highlighting using Rouge.
 
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+```
+![walking]({{ site.baseurl }}/assets/images/markdown-code.jpg)
+```
+![walking]({{ site.baseurl }}/assets/images/markdown-code.jpg)
 
 ## Reference lists
 
@@ -44,5 +49,8 @@ Another way to insert links in markdown is using reference lists. You might want
 ## Full HTML
 
 Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
+```
+<p><iframe width="789" height="444" src="https://www.youtube.com/embed/LXb3EKWsInQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+```
+<p><iframe width="789" height="444" src="https://www.youtube.com/embed/LXb3EKWsInQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
