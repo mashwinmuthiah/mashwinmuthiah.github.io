@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  How Scraping NBA Stats is cooler than Michael Jordan
+subtitle : Finding API endpoints and Client-side web scraping
 author: Ashwin
 categories: [ tutorial , NBA]
 image: assets/images/NBA.jpg

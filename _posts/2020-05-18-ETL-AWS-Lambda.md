@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Automating ETL with AWS Lambda"
+subtitle : Package and deploy a serverless ETL pipeline using AWS Lambda
 author: Ashwin
 categories: [ AWS, tutorial ]
 image: assets/images/AWS_ETL/hasan-almasi-SpCrTUG2nu8-unsplash.jpg

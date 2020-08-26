@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
+subtitle: "A Tutorial on Markdown"
 author: Ashwin
 categories: [ Markdown, tutorial ]
 image: assets/images/Markdown.jpg
