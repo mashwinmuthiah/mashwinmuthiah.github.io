@@ -6,10 +6,6 @@ author: Ashwin
 categories: [ tutorial , NBA]
 image: assets/images/NBA.jpg
 ---
-### Finding API endpoints and Client-side web scraping
-
-## Introduction
-
 This summer I picked up a new hobby of following the NBA, as a data enthusiast, I wanted to understand how this season of NBA was different on paper from the previous ones as this was played inside the bubble without any fans.
 
 For acquiring relevant data I started by utilizing the python library beautiful soup. However, to my surprise, the data wasn’t stored on the HTML Source page. After some digging, I discovered that the NBA stats website was built with an AngularJS, which means that the site is rendered client-side instead of server-side.
