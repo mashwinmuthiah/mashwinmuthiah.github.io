@@ -5,7 +5,6 @@ subtitle: The growth of Lacrossebetween 2002 and 2018
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/Lacrosse.jpg
-tags: [featured]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/WillLacrossebecomeanAmericanpastime/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}

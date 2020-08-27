@@ -5,7 +5,7 @@ subtitle : Package and deploy a serverless ETL pipeline using AWS Lambda
 author: Ashwin
 categories: [ AWS, tutorial ]
 image: assets/images/AWS_ETL/hasan-almasi-SpCrTUG2nu8-unsplash.jpg
-tags: [sticky,featured]
+tags: [sticky]
 ---
 The world around us is changing faster than ever before. The amount of data we produce every day is truly mind-boggling. There are 2.5 quintillion bytes of data created each day, which means the data we use today might not be relevant tomorrow. So, we need a way to completely automate our data flow process, the good news is you don't need to worry about having fancy servers and expensive hardware to do so, AWS lets you do this with the added advantage of high performance and scalability.
 In this post, we will only be using AWS free tier offerings. So you can follow along. Before we jump into the process we need to understand the 3 AWS services we are going to use EC2, AWS Lambda, and Cloudwatch.
