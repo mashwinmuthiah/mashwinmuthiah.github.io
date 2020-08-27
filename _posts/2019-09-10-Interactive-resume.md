@@ -14,4 +14,4 @@ tags: [sticky,featured]
 Hover Over the points in the Visualization for More details 
 ```
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Ashwin-Resume/ItsMe?:language=en-GB&:display_count=y&:origin=viz_share_link&:showVizHome=no" width = '110%' height = '600'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Ashwin-Resume/ItsMe?:language=en-GB&:display_count=y&:origin=viz_share_link&:showVizHome=no" width = '120%' height = '850'></iframe>

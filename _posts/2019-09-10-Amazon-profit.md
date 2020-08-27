@@ -14,4 +14,4 @@ tags: [featured]
 Hover Over the points in the Visualization for More details 
 ```
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/workbook_15928751582800/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link&:showVizHome=no" width = '110%' height = '600'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/workbook_15928751582800/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link&:showVizHome=no" width = '100%' height = '850'></iframe>
