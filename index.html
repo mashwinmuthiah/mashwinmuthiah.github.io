@@ -28,7 +28,7 @@ description: "Data Fanatic - NBA Enthusiast - Northeastern University '20"
     <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
     <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+        {{ latest_post.subtitle | strip_html | strip_newlines | truncate: 136 }}
     </p>
     <div>
         <small class="d-block text-muted">
@@ -141,6 +141,9 @@ description: "Data Fanatic - NBA Enthusiast - Northeastern University '20"
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h1 class="mb-3">{{post.title}}</h1>
+                <p class="mb-3 lead">
+                    {{ post.subtitle | strip_html | strip_newlines | truncate: 136 }}
+                </p>
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
