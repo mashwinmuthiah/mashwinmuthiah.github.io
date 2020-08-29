@@ -5,7 +5,7 @@ subtitle : Well not really, but a cool thing to have.
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/resume.jpg
-tags: [sticky,featured]
+tags: [viz]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/Ashwin-Resume/ItsMe?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}

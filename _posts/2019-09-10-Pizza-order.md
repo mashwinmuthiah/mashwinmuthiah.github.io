@@ -5,7 +5,7 @@ subtitle : Using Tableau new set action controls to order Pizza
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/pizza.jpg
-tags: [featured]
+tags: [viz]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/profile/ashwin1496#!/vizhome/PizzaOrder/Dashboard){:target="_blank"}

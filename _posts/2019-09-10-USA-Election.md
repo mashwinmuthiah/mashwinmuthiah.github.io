@@ -5,7 +5,7 @@ subtitle : The Path to 270 Electrol College Votes
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/Election.jpg
-tags: [featured]
+tags: [viz]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/WillNovemberbeananothersupriseof2020/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}

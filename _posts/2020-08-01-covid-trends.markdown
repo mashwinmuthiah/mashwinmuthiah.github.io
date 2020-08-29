@@ -5,6 +5,7 @@ subtitle : alues Represent Seven-Day Moving Average from 21 January 2020 to 26 A
 author: Ashwin
 categories: [ DataViz, Tableau]
 image: assets/images/covid-trending.png
+tags: [viz]
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/Covid-Trends/Dashboard?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link){:target="_blank"}
 

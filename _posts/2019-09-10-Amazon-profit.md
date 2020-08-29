@@ -5,7 +5,7 @@ subtitle : Amazons tiny profit explained
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/Amazon.jpg
-tags: [featured]
+tags: [viz]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/workbook_15928751582800/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}

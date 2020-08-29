@@ -5,7 +5,7 @@ subtitle : An innocent challenge that is actually more difficult than it first a
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/Profit-top.png
-tags: [featured]
+tags: [viz]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/TopProfitProducts/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}
