@@ -8,7 +8,7 @@ image: assets/images/Profit-top.png
 tags: [featured]
 
 ---
-[To View an enlarged version in Tableau Website - click here]https://public.tableau.com/views/TopProfitProducts/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}
+[To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/TopProfitProducts/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}
 
 ```
 Hover Over the points in the Visualization for More details 
