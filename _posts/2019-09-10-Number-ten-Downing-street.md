@@ -5,7 +5,7 @@ subtitle : Since 2013, 10 Downing Street has reduced the usage of electricity dr
 author: Ashwin
 categories: [ DataViz, Tableau ]
 image: assets/images/ecofriendly.png
-tags: [viz]
+tags: [viz,sticky]
 
 ---
 [To View an enlarged version in Tableau Website - click here](https://public.tableau.com/views/ElectricityConsumptionat10DowningStreet/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link){:target="_blank"}
