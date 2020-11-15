@@ -4,7 +4,7 @@ title:  Will Tableau Replace Traditional Data Analyst Resume
 subtitle : Well not really, but a cool thing to have.
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/resume.jpg
+image: assets/images/resume.png
 tags: [viz]
 
 ---

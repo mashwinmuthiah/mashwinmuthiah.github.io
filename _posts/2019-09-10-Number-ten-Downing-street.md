@@ -4,7 +4,7 @@ title:  The Headquarters of the Government of the UK Is Becoming Ecofriendly
 subtitle : Since 2013, 10 Downing Street has reduced the usage of electricity drastically
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/ecofriendly.jpg
+image: assets/images/ecofriendly.png
 tags: [viz]
 
 ---

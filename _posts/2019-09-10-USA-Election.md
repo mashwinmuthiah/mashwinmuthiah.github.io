@@ -4,7 +4,7 @@ title:  Will November be an another suprise of 2020 ?
 subtitle : The Path to 270 Electrol College Votes
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/Election.jpg
+image: assets/images/Election.png
 tags: [viz]
 
 ---

@@ -4,7 +4,7 @@ title:  Wonders of Wind Energy
 subtitle : On overview of Wind Enery use in USA
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/wind.jpg
+image: assets/images/wind.png
 tags: [featured]
 
 ---

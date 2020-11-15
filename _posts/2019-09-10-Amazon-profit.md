@@ -4,7 +4,7 @@ title:  Is Amazon Really Not Profitable ?
 subtitle : Amazons tiny profit explained
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/Amazon.jpg
+image: assets/images/Amazon.png
 tags: [viz]
 
 ---

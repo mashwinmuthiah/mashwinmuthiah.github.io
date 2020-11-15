@@ -4,7 +4,7 @@ title:  Pizza Order
 subtitle : Using Tableau new set action controls to order Pizza
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/pizza.jpg
+image: assets/images/pizza.png
 tags: [viz]
 
 ---

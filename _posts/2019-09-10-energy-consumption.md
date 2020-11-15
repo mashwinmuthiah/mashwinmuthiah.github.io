@@ -4,7 +4,7 @@ title:  Is the Prime Ministers Office Any Bettere Than Ours?
 subtitle : Energy Consultion at 10 Downing street
 author: Ashwin
 categories: [ DataViz, Tableau ]
-image: assets/images/downing_st.jpg
+image: assets/images/downing_st.png
 tags: [viz]
 
 ---
