@@ -16,4 +16,4 @@ This Dashboard helps the HR department to improve recruiting processes, optimize
 Hover Over the points in the Visualization for More details 
 `
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/HumanResourcesDashboard_16070374686580/FinalDash?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no" style = "z-index: 11; width: 1100px; height: 1600px" ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/HumanResourcesDashboard_16070374686580/FinalDash?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no" style = "z-index: 11; width: 100%; height: 1600px" ></iframe>

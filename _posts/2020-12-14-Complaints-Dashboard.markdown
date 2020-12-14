@@ -14,4 +14,4 @@ This Dashboard helps the complaints department to improve customer service proce
 
 `Hover Over the points in the Visualization for More details`
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/FinancialConsumerComplaintsDashboard/OverView?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no" style = "z-index: 11; width: 1200px; height: 1000px; top: 0px; left: -100px;" ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/FinancialConsumerComplaintsDashboard/OverView?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no" style = "z-index: 11; width: 100%; height: 1000px; top: 0px; left: -100px;" ></iframe>
