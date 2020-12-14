@@ -4,7 +4,7 @@ title:  Financial Consumer Complaints Dashboard
 subtitle : An Advanced analytics Dashboard that displays important omplaints metrics using interactive data visualizations
 author: Ashwin
 categories: [DataViz, Tableau]
-image: assets/images/complaints.PNG
+image: assets/images/complaints.png
 tags: [viz]
 ---
 
