@@ -4,7 +4,7 @@ title:  Human Resources Dashboard
 subtitle : An Advanced analytics Dashboard that displays important HR metrics using interactive data visualizations
 author: Ashwin
 categories: [DataViz, Tableau]
-image: assets/images/HR_Dash.png
+image: assets/images/HR_dash.png
 tags: [viz,sticky]
 ---
 
