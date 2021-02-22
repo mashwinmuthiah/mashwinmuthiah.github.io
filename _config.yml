@@ -1,56 +1,63 @@
 # Site
-name: 'Ashwin Murugappan'
-description: 'Visit My Website to know more about me :D'
+name: "Ashwin Muthiah Murugappan"
+title: ""
+description: "For the love of storytelling with data and analytics"
 logo: 'assets/images/logo-Ashwin.png'
 favicon: 'assets/images/logo-Ashwin.png'
 baseurl: ''
+google_analytics: 'UA-139229760-1'
 #disqus: 'demowebsite'
-email: 'murugappan.a@northeastern.edu'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-
+mailchimp-list: 'https://gmail.us1.list-manage.com/subscribe?u=c501a7cd162d352492c85eb4a&id=1b265b0459'
 include: ["_pages"]
 permalink: /:title/
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
+# Authors
 authors:
-    Ashwin:
-      name:           Ashwin
-      site:           https://www.linkedin.com/in/ashwinmuthiah/
-      avatar:         assets/images/logo-Ashwin.png
-      bio:            "Hi, I am Ashwin, Masters in Data Analytics. Working on making incomprehensible statistics real to readers."
-      email:          murugappan.a@northeastern.edu
-      twitter:        https://twitter.com/AshwinMuru
-
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: Ashwin
-      avatar: assets/images/logo-Ashwin.png
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+  Ashwin:
+    name: Ashwin
+    display_name: Ashwin
+    gravatar: 33b58133da9cc1d98196f32ee0d685ec
+    email: murugappan.a@northeastern.edu
+    web: /about
+    twitter: https://twitter.com/AshwinMuru
+    description: "Hi, I am Ashwin, Masters in Data Analytics. Working on making incomprehensible statistics real to readers."
+  
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 100
+paginate_path: /page:num/
+    
+# Other
 markdown: kramdown
-highlighter: rouge
 
-# Paginate
-paginate: 15
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

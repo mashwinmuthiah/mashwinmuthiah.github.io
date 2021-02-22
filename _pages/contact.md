@@ -1,12 +1,14 @@
 ---
-title: "Contact"
-permalink: "/contact.html"
+layout: page
+title: Contact
+permalink: /Contact
+comments: false
 ---
 <div class="p-3 border rounded row justify-content-center">
 Feel free to reach out to me at - <br>
 
 <a class="text-dark ml-1" target="_blank" href="https://www.linkedin.com/in/ashwinmuthiah/"><i class = "fab fa-linkedin-in"></i> Linkedin </a>
-<a class="text-dark ml-1" target="_blank" href="https://twitter.com/AshwinMuru"><i class="fab fa-twitter text-muted"></i> Twitter </a>
+<a class="text-dark ml-1" target="_blank" href="https://twitter.com/AshwinMuru"><i class="fab fa-twitter "></i> Twitter </a>
 <a class="text-dark ml-1" target="_blank" href="https://github.com/mashwinmuthiah"><i class="fab fa-github"></i> Github </a>
 <a class="text-dark ml-1" target="_blank" href="mailto: murugappan.a@northeastern.edu"><i class="far fa-paper-plane"></i> Email </a>
 </div><br>

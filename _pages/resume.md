@@ -1,9 +1,12 @@
 ---
-title: "Resume"
-permalink: "/resume.html"
+layout: page
+title: Resume
+permalink: /resume
+comments: false
 ---
 
-<a class ="btn btn-success button pageclip-form__submit--dark-loader" href="\assets\images\Ashwin-Resume.pdf" download="Ashwin-Resume" value="Download">
+
+<a class ="btn-success button pageclip-form__submit--dark-loader" href="\assets\images\Ashwin-Resume.pdf" download="Ashwin-Resume" value="Download">
 <input class="btn btn-success button pageclip-form__submit--dark-loader" type="submit" value="Download">
 </a>
 # Ashwin Murugappan
