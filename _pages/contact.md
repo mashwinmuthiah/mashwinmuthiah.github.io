@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /Contact
+permalink: /contact
 comments: false
 ---
 <div class="p-3 border rounded row justify-content-center">
