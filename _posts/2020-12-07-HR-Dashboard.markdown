@@ -8,7 +8,7 @@ tags: [viz,sticky]
 imagecaption : "Human Resources Dashboard Interactive Dashboard"
 description: "This Dashboard helps the HR department to improve recruiting processes, optimize the workplace management as well as to enhance the overall employee performance."
 featured: true
-hidden: true
+hidden: false
 rating: 
 ---
 

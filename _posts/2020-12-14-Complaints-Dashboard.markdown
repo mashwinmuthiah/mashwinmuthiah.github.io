@@ -8,7 +8,7 @@ tags: [viz]
 imagecaption : "Financial Customer Complaints Interactive Dashboard"
 description: "This Dashboard helps the complaints department to improve customer service processes, optimize the workplace management as well as to enhance the overall employee performance."
 featured: true
-hidden: true
+hidden: false
 rating: 
 ---
 
