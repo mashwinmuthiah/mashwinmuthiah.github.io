@@ -14,7 +14,8 @@ rating:
 
 This Dashboard helps the complaints department to improve customer service processes, optimize the workplace management as well as to enhance the overall employee performance.
 
-<small class="ml-1"> {{ author.name }} <span><a target="_blank" href="https://public.tableau.com/views/FinancialConsumerComplaintsDashboard/OverView?:language=en&:display_count=y&:origin=viz_share_link" class="btn btn-outline-success btn-sm btn-round ml-1">Click to View an enlarged version in Tableau Website </a></span> </small>
+<small class="ml-1"> {{ author.name }} <span><a target="_blank" href="https://public.tableau.com/views/FinancialConsumerComplaintsDashboard/OverView?:language=en&:display_count=y&:origin=viz_share_link" class="btn btn-outline-success btn-sm btn-round ml-1">Click to View an interactive enlarged version
+</a></span> </small>
 
 > `Hover Over the points in the Visualization for More details `
 
